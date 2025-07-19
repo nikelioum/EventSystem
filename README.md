@@ -41,6 +41,11 @@ php artisan serve
 npm run dev
 
 
+# Run Test
+php artisan test
+
+
+
 
 Admin user info for loggin
 Email: admin1@reborrn.com
